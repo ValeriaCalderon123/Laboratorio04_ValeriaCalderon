@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Laboratorio04_ValeriaCalderon</string>
+    <string name="escuela">Ingenieria de Sistemas</string>
+    <string name="codigo">Codigo de la Asignatura</string>
+    <string name="codigo_A">1705169</string>
+    <string name="nombre">Nombre de la Asignatura</string>
+    <string name="nombre_A">Desarrollo Avanzado N.P.</string>
+    <string name="spinner_color">Colores</string>
+    <string name="spinner_fuent">Fuentes</string>
+    <string name="semestre">Semestre</string>
+    <string name="semestre_A">IX(noveno)</string>
+    <string name="duracion">Duracion</string>
+    <string name="duracion_A">17 semanas</string>
+
+</resources>
